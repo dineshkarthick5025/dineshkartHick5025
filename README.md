@@ -93,13 +93,25 @@ const dinesh = {
   
   ## 📊 **GitHub Analytics**
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dineshkarthick5025&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=dineshkarthick5025&theme=tokyonight&hide_border=true" />
+  <!-- Add ?v=1 or ?cache_seconds= to force refresh -->
+  <a href="https://github.com/dineshkarthick5025">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dineshkarthick5025&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=1" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/dineshkarthick5025">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkarthick5025&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1" alt="Top Languages" />
+  </a>
   
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkarthick5025&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <!-- Streak Stats -->
+  <br />
+  <a href="https://github.com/dineshkarthick5025">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=dineshkarthick5025&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=1" alt="GitHub Streak" />
+  </a>
   
   <!-- Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dineshkarthick5025&theme=tokyo-night&hide_border=true&area=true" />
+  <br />
+  <a href="https://github.com/dineshkarthick5025">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dineshkarthick5025&theme=tokyo-night&hide_border=true&area=true&v=1" alt="Activity Graph" />
+  </a>
   
 </div>
 
